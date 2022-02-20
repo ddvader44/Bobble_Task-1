@@ -6,12 +6,13 @@
         <entry key="..\:/Users/DISHIT/AndroidStudioProjects/Bobble1/app/src/main/res/drawable/circular_button.xml" value="0.24027777777777778" />
         <entry key="..\:/Users/DISHIT/AndroidStudioProjects/Bobble1/app/src/main/res/drawable/ic_round_img.xml" value="0.24027777777777778" />
         <entry key="..\:/Users/DISHIT/AndroidStudioProjects/Bobble1/app/src/main/res/layout/activity_main.xml" value="0.2" />
-        <entry key="..\:/Users/DISHIT/AndroidStudioProjects/Bobble1/app/src/main/res/layout/fragment_head.xml" value="0.2" />
+        <entry key="..\:/Users/DISHIT/AndroidStudioProjects/Bobble1/app/src/main/res/layout/fragment_head.xml" value="0.4" />
         <entry key="..\:/Users/DISHIT/AndroidStudioProjects/Bobble1/app/src/main/res/layout/item_empty.xml" value="0.4" />
         <entry key="..\:/Users/DISHIT/AndroidStudioProjects/Bobble1/app/src/main/res/layout/item_row_child.xml" value="0.190625" />
         <entry key="..\:/Users/DISHIT/AndroidStudioProjects/Bobble1/app/src/main/res/layout/item_row_parent.xml" value="0.2" />
         <entry key="..\:/Users/DISHIT/AndroidStudioProjects/Bobble1/app/src/main/res/layout/item_title_profile.xml" value="0.136" />
         <entry key="..\:/Users/DISHIT/AndroidStudioProjects/Bobble1/app/src/main/res/layout/login_banner.xml" value="0.4" />
+        <entry key="..\:/Users/DISHIT/AndroidStudioProjects/Bobble1/app/src/main/res/layout/testing_custom_view.xml" value="0.264" />
       </map>
     </option>
   </component>
