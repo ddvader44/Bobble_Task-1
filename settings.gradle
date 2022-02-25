@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Bobble-1"
 include ':app'
+include ':app:benchmark'

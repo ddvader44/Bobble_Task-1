@@ -6,6 +6,7 @@ import android.graphics.Color
 import android.graphics.Paint
 import android.graphics.Rect
 import android.util.AttributeSet
+import android.util.Log
 import android.view.View
 
 class CustomImage @JvmOverloads constructor(
@@ -15,6 +16,12 @@ class CustomImage @JvmOverloads constructor(
     private val rect = Rect()
     private val middleRect = Rect()
     private val paint = Paint(Paint.ANTI_ALIAS_FLAG)
+
+    override fun onMeasure(widthMeasureSpec: Int, heightMeasureSpec: Int) {
+        super.onMeasure(widthMeasureSpec, heightMeasureSpec)
+        var i =0
+        Log.i("Check calls","called" + {++i})
+    }
 
     override fun onDraw(canvas: Canvas) {
 
