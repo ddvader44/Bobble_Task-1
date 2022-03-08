@@ -5,7 +5,9 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".ui.HeadFragment"
-    tools:ignore="SpeakableTextPresentCheck">
+    tools:ignore="SpeakableTextPresentCheck"
+    android:background="@color/background"
+    >
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
@@ -112,7 +114,7 @@
             android:gravity="center"
             android:lines="2"
             android:text="@string/follow_us_for_latest_updates_tips_amp_tricks"
-            android:textColor="@color/black"
+            android:textColor="@color/socials"
             android:textSize="20sp"
             android:textStyle="bold"
             app:layout_constraintBottom_toTopOf="@+id/gridLayout"
@@ -133,7 +135,7 @@
                 android:layout_marginStart="60dp"
                 android:layout_marginTop="7dp"
                 android:text="Twitter"
-                android:textColor="@color/black"
+                android:textColor="@color/socials"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/imageView2" />
 
@@ -144,7 +146,7 @@
                 android:layout_marginStart="55dp"
                 android:layout_marginTop="7dp"
                 android:text="LinkedIn"
-                android:textColor="@color/black"
+                android:textColor="@color/socials"
                 app:layout_constraintStart_toEndOf="@+id/textView7"
                 app:layout_constraintTop_toBottomOf="@+id/imageView6" />
 
@@ -155,7 +157,7 @@
                 android:layout_marginStart="56dp"
                 android:layout_marginTop="7dp"
                 android:text="ShareChat"
-                android:textColor="@color/black"
+                android:textColor="@color/socials"
                 app:layout_constraintStart_toEndOf="@+id/textView8"
                 app:layout_constraintTop_toBottomOf="@+id/imageView4" />
 
@@ -166,7 +168,7 @@
                 android:layout_marginStart="56dp"
                 android:layout_marginTop="7dp"
                 android:text="YouTube"
-                android:textColor="@color/black"
+                android:textColor="@color/socials"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/imageView5" />
 
@@ -177,7 +179,7 @@
                 android:layout_marginStart="56dp"
                 android:layout_marginTop="7dp"
                 android:text="Facebook"
-                android:textColor="@color/black"
+                android:textColor="@color/socials"
                 app:layout_constraintStart_toEndOf="@+id/textView10"
                 app:layout_constraintTop_toBottomOf="@+id/imageView3" />
 
@@ -188,7 +190,7 @@
                 android:layout_marginStart="61dp"
                 android:layout_marginTop="7dp"
                 android:text="Instagram"
-                android:textColor="@color/black"
+                android:textColor="@color/socials"
                 app:layout_constraintStart_toEndOf="@+id/textView5"
                 app:layout_constraintTop_toBottomOf="@+id/imageView" />
 

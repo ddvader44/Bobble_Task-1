@@ -23,7 +23,7 @@ open class ChildAdapter(var memberData: String) :
         }
 
         fun bind(result: String) {
-            itemView.name.text = result
+            itemView.name.setBackgroundResource(R.drawable.ic_cricket)
         }
     }
 

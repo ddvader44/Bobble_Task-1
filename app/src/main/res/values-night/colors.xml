@@ -9,8 +9,8 @@
     <color name="white">#FFFFFFFF</color>
     <color name="grey">#d1cdcd</color>
 
-<!--    for light mode-->
+    <!--    for dark mode-->
 
-    <color name="socials">#000</color>
-    <color name="background">#fff</color>
+    <color name="socials">#fff</color>
+    <color name="background">#000</color>
 </resources>
